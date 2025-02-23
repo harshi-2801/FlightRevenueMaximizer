@@ -1,8 +1,5 @@
 # FlightRevenueMaximizer
 
-
-# Flight Revenue Maximizer
-
 ## Project Overview
 **Flight Revenue Maximizer** is a data-driven project focused on analyzing airline occupancy rates and revenue streams to optimize profitability. Using an SQLite database and Python-based data analysis, the project identifies low-performing flights and offers insights to improve seat occupancy and boost the average profit per seat.
 
