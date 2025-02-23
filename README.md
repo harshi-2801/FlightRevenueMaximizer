@@ -51,6 +51,6 @@ The goal is to help airlines enhance operational strategies, optimize pricing, a
 
 ## Future Enhancements
 
-Integrate real-time flight data for dynamic analysis.
-Develop an interactive dashboard (using Dash/Plotly) for better visualization.
-Implement machine learning models for demand forecasting and dynamic pricing.
+-Integrate real-time flight data for dynamic analysis.
+-Develop an interactive dashboard (using Dash/Plotly) for better visualization.
+-Implement machine learning models for demand forecasting and dynamic pricing.
